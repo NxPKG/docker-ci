@@ -4,7 +4,7 @@ name: 04 Build with Metadata
 on:
   push:
     branches:
-      - main
+      - CI
   pull_request:
 
 jobs:
