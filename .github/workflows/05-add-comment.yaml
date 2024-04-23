@@ -4,7 +4,7 @@ name: 05 Build and Comment
 on:
   push:
     branches:
-      - main
+      - CI
   pull_request:
 
 jobs:
